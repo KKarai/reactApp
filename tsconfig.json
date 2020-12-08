@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2015",           
+    "module": "ES2015",
+    "moduleResolution": "node",             
+    "declaration": true,               
+    "outDir": "./dist/",
+    "jsx": "react",                
+    "strict": true,                     
+    "allowSyntheticDefaultImports": true,   
+    "esModuleInterop": true,              
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
