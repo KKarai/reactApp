@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDom from 'react-dom';
+import { MultiStepForm } from './MultiStepForm/MultiStepForm';
 
 const App = () => (
   <>
-    <div>1231</div>
+    <MultiStepForm />
   </>
 );
 
